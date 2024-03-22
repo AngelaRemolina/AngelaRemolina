@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently studying a Master's in Artificial Inteligence at Politecnico di Milano<br>💬 Ask me about board games and Doctor Who<br>🐶 Fun fact: I take pictures of dogs I see on the streets, see them here ➡️ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/perritosqueveoenlacalle/)
+🗺️ I was born in Colombia<br>🌱 I’m currently studying a Master's in Artificial Inteligence at Politecnico di Milano <br>💬 Ask me about board games and Doctor Who<br>🐶 Fun fact: I take pictures of dogs I see on the streets 👀➡️ [here](https://instagram.com/perritosqueveoenlacalle/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/justangela.s/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angelaremolina/) 
